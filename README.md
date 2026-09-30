@@ -85,7 +85,7 @@ The dataset has no missing values.
 The dataset is publicly available through the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/1031/dataset+for+assessing+mathematics+learning+in+higher+education).
 
 ### DOI
-10.34620/dadosipb/PW3OWY
+[10.34620/dadosipb/PW3OWY](https://doi.org/10.34620/dadosipb/PW3OWY)
 
 ### License
 The dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. The data can be shared and adapted as long as appropriate credit is given.
