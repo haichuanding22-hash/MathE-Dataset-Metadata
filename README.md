@@ -19,13 +19,13 @@ This dataset contains data from the MathE platform, which was developed under th
 ### README Author
 
 - **Name:** Haichuan Ding
-- **ORCID:** 0009-0009-3132-5709
+- **ORCID:** [0009-0009-3132-5709](https://orcid.org/0009-0009-3132-5709)
 
 ### Data Collection Period
 February 2019 to December 2023
 
 ### DOI
-10.34620/dadosipb/PW3OWY
+[10.34620/dadosipb/PW3OWY](https://doi.org/10.34620/dadosipb/PW3OWY)
 
 ### Keywords
 - Education
