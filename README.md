@@ -41,6 +41,7 @@ February 2019 to December 2023
 - **Feature types:** Real, Categorical, Integer
 - **Missing values:** No
 - **Associated tasks:** Classification, Regression, Clustering
+
 ## Data & File Overview
 
 The dataset contains 9,546 records and 8 features. Each record represents a student's answer to a mathematics question on the MathE platform.
@@ -68,6 +69,7 @@ A detailed description of these variables is provided in the Data Dictionary sec
 
 ### Missing Data
 The dataset has no missing values.
+
 ## Sharing & Access Information
 
 ### Access
