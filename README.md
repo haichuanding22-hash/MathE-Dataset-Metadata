@@ -1,5 +1,14 @@
 # Assessing Mathematics Learning in Higher Education
 
+## Table of Contents
+
+- [General Information](#general-information)
+- [Data & File Overview](#data--file-overview)
+- [Sharing & Access Information](#sharing--access-information)
+- [Methodological Information](#methodological-information)
+- [Data-Specific Information](#data-specific-information)
+- [Metadata and Documentation Choices](#metadata-and-documentation-choices)
+
 ## General Information
 
 ### Dataset Title
@@ -73,7 +82,7 @@ The dataset has no missing values.
 ## Sharing & Access Information
 
 ### Access
-The dataset is publicly available through the UCI Machine Learning Repository.
+The dataset is publicly available through the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/1031/dataset+for+assessing+mathematics+learning+in+higher+education).
 
 ### DOI
 10.34620/dadosipb/PW3OWY
